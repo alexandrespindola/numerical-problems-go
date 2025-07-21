@@ -1,4 +1,4 @@
-# Numerical Problems in Go
+# Numerical Problems in Go - DIO
 
 This is a simple Go application developed as an exercise for the DIO Go Developer course.
 
